@@ -1,5 +1,5 @@
 # 💫 About Me:
-Founder & CEO of DiffuseAi<br>Ai Student Community Leader<br>Exhibitor at Global Partnership on Artificial intelligence Summit<br>Exhibitor at G20 Summit 2023<br>Exhibitor & Speaker at Teach2Learn, IIT-Madras<br>Head of External Affairs & Media at Google Developer Groups<br>Undergrad Student at Saveetha School of Engineering<br>Govt.School Student Tamilnadu & Generative-Ai Enthusiast
+Founder & CEO of DiffuseAi<br>Ai Student Community Leader<br>Exhibitor at Global Partnership on Artificial intelligence Summit<br>Exhibitor at G20 Summit 2023<br>Exhibitor & Speaker at Teach2Learn, IIT-Madras<br>Head of External Affairs & Media at Google Developer Groups<br>Undergrad Student at Saveetha School of Engineering<br>Govt.School Student Tamilnadu & Generative-Ai Enthusiast<br>App & Web Development Enthusiast
 
 
 ## 🌐 Socials:
